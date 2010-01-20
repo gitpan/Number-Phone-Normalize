@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.55.
+signed via the Module::Signature module, version 0.61.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -15,12 +15,12 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 7d6a06d13d744b027d833697022a6f83ae299fb2 Build.PL
-SHA1 88c10e81dc93d861be1bcc6611ecff4322ea4374 Changes
-SHA1 276c6f551968687e626a539e7d33bb1c9929f528 LICENSE
+SHA1 7bb0264a89f00931daa042c21f24fef6f67a10ce Changes
+SHA1 444a38044a39c48decf964c571c408a338f3f44c LICENSE
 SHA1 4fea10d93746b06513ad5d234a0f577be1904b64 MANIFEST
-SHA1 c4f24bf92c21c39046a22ef6e2b4e626330d1261 META.yml
+SHA1 5d69d3643a38b08d410532295cefb8f8e3c31b0e META.yml
 SHA1 1ab93eee2c2aba73b3a05761b246fc711abbcc8b README
-SHA1 7f0fb807b811bd6e72441a2eb60cc853ebd0bd91 lib/Number/Phone/Normalize.pm
+SHA1 7bc72462a9fa936808443b643c64078567731f93 lib/Number/Phone/Normalize.pm
 SHA1 316f2b15951cd642905da6da8a105a0026741627 t/00base-use.t
 SHA1 056063d18c3f48338620bbff698f81f91f2ea4d0 t/05pod_check.t
 SHA1 b0c66bcb572f82e4401fee07b5342d09f6918c87 t/06pod_coverage.t
@@ -45,7 +45,7 @@ SHA1 14af86c63d1309e573d1a45dc0fe77c422634e9e t/42vanity_ac.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (Darwin)
 
-iEYEARECAAYFAksv2ZIACgkQSKUOY2OWgPDDLwCgk7yVZGx92yt3IpVZDrCcth/W
-+tAAn1FdLy8qQle6GPvsr53rWSoqGqRJ
-=VMbn
+iEYEARECAAYFAktW7bsACgkQSKUOY2OWgPD/sgCguZlMASPRB0Ed5zBXIsApV2vm
+RqYAoKU4F/FovN1m5y3QZVBlB1HBNaqu
+=vRq5
 -----END PGP SIGNATURE-----
